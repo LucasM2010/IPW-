@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-image: url("https://www.cisoadvisor.com.br/wp-content/uploads/2022/03/anonymous-ge71634f1b_640-e1647212846142.jpg");background-repeat: no-repeat;
+            height: 100%;
+            width: 100%;
+            background-size: 100%;
+
+        }
+        mark {
+            background-color: rgb(2, 245, 2);
+        }
+        marquee{
+            position: absolute;
+            height:100% ;
+            color: chartreuse;
+
+
+        }   
+        code{color: aqua;} 
+        body{color: aqua;} 
+         </style>
+</head>
+<body>
+    Eu moro na <u>R. do Príncipe, 526 - Boa Vista, Recife - PE, 50050-900</u>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="7">0 </marquee>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="6">1 </marquee>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="5">1 </marquee>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="4">0 </marquee>
+<div
+    <marquee behavior="" direction="DOWN" hspace="100" truespeed="truespeed"scrolldelay="7">0 </marquee>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="6">1 </marquee>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="5">1 </marquee>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="4">0 </marquee>
+</div>
+
+
+     <div><marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="7">0 </marquee>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="6">1 </marquee>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="5">1 </marquee>
+    <marquee behavior="" direction="DOWN"truespeed="truespeed"scrolldelay="4">0 </marquee></div>
+
+
+
+    <marquee behavior="" direction="RIGHT"truespeed="truespeed"scrolldelay="20">NO COPYRIGHT </marquee>
+    <marquee behavior="" direction="RIGHT"truespeed="truespeed"scrolldelay="30">NO COPYRIGHT </marquee>
+
+
+
+    <pre>
+        <code>
+    num = int(input('Digite um número'))
+    if num % 2 == 0:
+        print(f'O número {num} é PAR')
+    else:
+        print(f'O número {num} é ÍMPAR')
+    print('Fim do programa')
+        </code>
+    </pre>
+
+</blockquote>
+<h2>Abreviações</h2>
+<p>Estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheets">CSS</abbr>. Estou adorando!</p>
+<h2>Texto invertido</h2>
+<p><bdo dir="rtl">Estou aprendendo a criar coisas em HTML.</bdo></p>
+
+<ol type="i"> <!-- 1 A a I i -->
+    <li>Acordar</li>
+    <li>Estudar a disciplina do prof. Roque</li>
+    <li>Tomar café</li>
+    <li>Escovar os dentes</li>
+    <li>Ir para a faculdade</li>
+    <li>Almoçar</li>
+    <li>Ir para o trabalho</li>
+    <li>Voltar para casa</li>
+    <li>Jantar</li>
+    <li>Dormir depois de fazer a atividade do prof. Roque</li>
+</ol>
+<h2>Listas não Ordenadas</h2>
+<ul type="square"> <!-- disc circle square -->
+    <li>Pão</li>
+    <li>Leite</li>
+    <li>Tomate</li>
+    <li>Alface</li>
+    <li>Manteiga</li>
+    <li>Arroz</li>
+    <li>Feijão</li>
+</ul>
+<h2>Minhas linguagens favoritas</h2>
+<ol>
+    <li>Frameworks</li>
+    <ol type="a">
+        <li>React Native</li>
+        <li>Nextjs</li>
+        <li>Angular</li>
+        <li>Vue</li>
+    </ol>
+    <li>linguagens</li>
+    <ol type="a" start="5">
+        <li>Java</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>Go</li>
+    </ol>
+</ol>
+
+<h2>Lista de Definições</h2>
+<dl>
+    <dt>HTML</dt>
+    <dd>Linguagem de marcação para a criação do conteúdo de um site.</dd>
+    <dt>CSS</dt>
+    <dd>Linguagem de marcação para a criação do design de um site.</dd>
+    <dt>JavaScript</dt>
+    <dd>Linguagem de programação para a criação de interatividade de um site.</dd>
+</dl>
+
+</body>
+</html>
